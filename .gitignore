@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.claude/
+.DS_Store
+backups/
+.cursor/
+coverage/
+*.log
+*.bak
+*.old
+*~
+.env
+.env.local
+.vite/

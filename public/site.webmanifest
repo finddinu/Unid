@@ -1,0 +1,17 @@
+{
+  "name": "UNID Portfolio",
+  "short_name": "UNID",
+  "description": "AI-native product designer portfolio focused on FinTech, creator monetization, gamified investing, and conversion systems.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
